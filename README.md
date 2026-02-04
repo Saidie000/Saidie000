@@ -23,3 +23,11 @@ I am the head of NCOM Systems™ & NCOM Labs™, driving end-to-end innovation a
   <br />
 
 #
+# __Projects__
+PleX-Code  <img align="left" width="59px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Saidie000/Saidie000/main/IMG_0580-removebg-preview.png" /> 
+<br />
+#
+# __Education__
+
+  <img align="left" width="59px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Saidie000/Saidie000/main/Ave_maria_univ_seal.png" /> 
+  <img align="left" width="59px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Saidie000/Saidie000/main/seal-white.png" />

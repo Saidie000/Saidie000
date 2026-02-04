@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Saidie000/Saidie000/main/IMG_0359.JPG" width="100%" />
+
 # __Saidie Quinn Newara__
 
 **`UX Designer | NCOM CEO & CTO | Graphics Design`**
@@ -15,7 +17,9 @@ I am the head of NCOM Systems™ & NCOM Labs™, driving end-to-end innovation a
   <img align="left" width="30px" style="padding-right:10px" | src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img align="left" width="30px" style="padding-right:10px" | src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="left" width="30px" style="padding-right:10px" | [!!] GitHub CodeSpaces src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
-  <img align="left" width="30px" style="padding-right:10px" | href="https://github.com/Saidie000/Saidie000/blob/main/Procreate-Symbol.png">
+  <a href="https://github.com/Saidie000/Saidie000/blob/main/Procreate-Symbol.png">
+  <img align="left" width="59px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Saidie000/Saidie000/main/Procreate-Symbol.png" />
+</a>
   <br />
 
 #
